@@ -1,5 +1,6 @@
 # [PrivacyInfo - Xocde 15 以上](https://juejin.cn/post/7260752483054600252)
 
+![](https://img.shields.io/github/v/tag/William-Weng/PrivacyInfoDemo) ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)
 ![](./image/WWUserDefaults.png)
 
 ## 新增隱私權文件
@@ -46,3 +47,10 @@
 		- 比如說：測量用 / 存取資訊用 / 鍵盤資料用
 
 		![](./image/NSPrivacyAccessedAPITypeReasons.png)
+
+## 使用
+1. 在產生Report的時候，會跟第三方的隱私檔一起打包…
+![](./image/Archive.png)
+
+1. 輸出的結果如圖所示…
+![](./image/PrivacyInfoPdf.png)
