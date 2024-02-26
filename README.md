@@ -40,7 +40,7 @@
 
 		![](./image/NSPrivacyAccessedAPIType.png)
 
-	1. [NSPrivacyAccessedAPITypeReasons - Privacy Accessed API Reasons](https://docs.playernetwork.intlgame.com/docs/zh/Support/FAQ/iOS/iOSPrivacyManifest/)
+	1. [Privacy Accessed API Reasons - NSPrivacyAccessedAPITypeReasons](https://docs.playernetwork.intlgame.com/docs/zh/Support/FAQ/iOS/iOSPrivacyManifest/)
 
 		- 使用這個API的影響範圍
 		- 比如說：測量用 / 存取資訊用 / 鍵盤資料用
