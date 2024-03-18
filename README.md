@@ -4,7 +4,7 @@
 ![](./image/WWUserDefaults.png)
 
 ## 新增隱私權文件
-0. [快速掃描工具 - kimbely0320](https://github.com/kimbely0320/update_privacy_info.py)
+0. [快速掃描工具 - kimbely0320](https://github.com/kimbely0320/update_privacy_info.py) / [ios_17_required_reason_api_scanner](https://github.com/Wooder/ios_17_required_reason_api_scanner)
 
 1. 新增文件
 ![](./image/PrivacyInfo.png)
